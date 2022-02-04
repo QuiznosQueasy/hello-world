@@ -1,8 +1,9 @@
 # hello-world
 
 About me...
+
 1
-👋 Hi, I’m @QuiznosQueasy
+- 👋 Hi, I’m @QuiznosQueasy
 2
 - 👀 I’m interested in electronics, computer science, and math
 3
