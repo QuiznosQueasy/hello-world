@@ -2,7 +2,7 @@
 
 About me...
 
-1
+
 - 👋 Hi, I’m @QuiznosQueasy
 2
 - 👀 I’m interested in electronics, computer science, and math
