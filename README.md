@@ -3,7 +3,7 @@
 About me...
 
 
-- 👋 Hi, I’m @QuiznosQueasy
+- 👋 Hi, I’m @Latherial Calbert
 
 - 👀 I’m interested in electronics, computer science, and math
 
@@ -11,12 +11,8 @@ About me...
 
 - 💞️ I’m looking to collaborate on anything
 
-- 📫 How to reach me -- email: regoniir@gmail.com
+- 📫 How to reach me -- email: calbertlr@g.cofc.edu
 
 More about me...
 
 Coffee keeps me up 😳
-
-Legs keep me down 😳
- 
-Feet keep me attractive 😒✌🏼
